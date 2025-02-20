@@ -10,8 +10,7 @@ Ce projet utilise **PaddleOCR** pour extraire et traiter du texte en **français
 - **Tesseract OCR**
 - **OCR.space API**
 - **OpenCV**
-- **Django (pour le backend)**
-- **React.js (pour le frontend - optionnel)**
+
 
 ## Comparaison des solutions OCR utilisées
 - **PaddleOCR** : Meilleure performance globale, mais nécessite une configuration correcte pour gérer plusieurs langues.
@@ -72,8 +71,5 @@ for line in result[0]:
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une **issue** ou à soumettre une **pull request**.
 
 ## Auteur
-- **[Ton Nom]**
-
-## Licence
-Ce projet est sous licence MIT.
+- **Rajhi Zeineb**
 
